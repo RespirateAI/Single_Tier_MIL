@@ -1,0 +1,7 @@
+model = attention
+num_bags = 128
+
+Epoch: 1, Loss: -0.9833, Train error: 0.0000
+Epoch: 2, Loss: -1.0000, Train error: 0.0000
+Epoch: 3, Loss: -1.0000, Train error: 0.0000
+Epoch: 4, Loss: -1.0000, Train error: 0.0000
